@@ -39,10 +39,12 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection: CIRCUIT DIAGRAM: <img width="843" height="606" alt="exp 3 straight connection" src="https://github.com/user-attachments/assets/0dbf1f91-ea6b-496f-a7cb-fbedcf25db36" />
+
 Tabulation:1
 	
-Cross connection: CIRCUIT DIAGRAM:
+Cross connection: CIRCUIT DIAGRAM:<img width="1037" height="621" alt="exp3 cross connection" src="https://github.com/user-attachments/assets/b4994b01-d82b-4ce3-8110-781446c7840b" />
+
 
 Tabulation:2
 
