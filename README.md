@@ -42,11 +42,12 @@ switch2.
 Direct connection: CIRCUIT DIAGRAM: <img width="843" height="606" alt="exp 3 straight connection" src="https://github.com/user-attachments/assets/0dbf1f91-ea6b-496f-a7cb-fbedcf25db36" />
 
 Tabulation:1
-	
+	<img width="575" height="272" alt="image" src="https://github.com/user-attachments/assets/12d3a67d-69c1-4547-807a-5afb1031e3c0" />
+
 Cross connection: CIRCUIT DIAGRAM:<img width="1037" height="621" alt="exp3 cross connection" src="https://github.com/user-attachments/assets/b4994b01-d82b-4ce3-8110-781446c7840b" />
 
-
 Tabulation:2
+<img width="460" height="222" alt="image" src="https://github.com/user-attachments/assets/0ebcbb49-18bf-43ae-88e2-85fbd93d54f3" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
